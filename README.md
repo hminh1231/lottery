@@ -1,1 +1,1 @@
-This is one of my small project during my time study about coding, the old file is the first project I created and the updated file is the newest version, more better. So if you want to use, please run the updated file only
+This is one of my small project during my time study about coding, the old file is the first project I created and the updated file is the newest version, more better. So if you want to use, please run the updated file only.
